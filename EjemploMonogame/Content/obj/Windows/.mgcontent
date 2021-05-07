@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/disparoEnemigo.mp3</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/disparoNave.mp3</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/enemigo1.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/enemigo1b.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/enemigo2.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/enemigo2b.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/explosion_enemigo.mp3</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/explosion_nave.mp3</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/explosion1.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/explosion1-2.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/explosion2.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/explosion3.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/explosion4.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/fire.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/fireEn1.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/fireEn2.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/fondo.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/menu.mp3</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/nave.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/navel.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/naver.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/nebulosas1.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/nebulosas2.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/nebulosas3.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/nebulosas4.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/nebulosas5.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/nivel1.mp3</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/planeta1.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/planeta2.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/planeta3.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/planeta4.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/PressStart2P.spritefont</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/scanlines.png</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/VerminBig.spritefont</File>
+    <File>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/VerminSmall.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

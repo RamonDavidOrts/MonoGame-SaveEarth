@@ -1,0 +1,124 @@
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\disparoNave.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\enemigo1.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\enemigo1b.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\fire.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\fireEn1.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\fondo.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\menu.wma
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\nave.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\nivel1.wma
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\nivel1.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\PressStart2P.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\VerminBig.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\VerminSmall.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\EjemploMonogame.exe
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\EjemploMonogame.pdb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\obj\x86\Debug\SaveEarth.csprojAssemblyReference.cache
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\obj\x86\Debug\SaveEarth.csproj.CoreCompileInputs.cache
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\obj\x86\Debug\SaveEarth.csproj.CopyComplete
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\obj\x86\Debug\EjemploMonogame.exe
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\obj\x86\Debug\EjemploMonogame.pdb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\navel.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\naver.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\disparoNave.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\enemigo1.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\enemigo1b.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\fire.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\fireEn1.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\fondo.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\menu.wma
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\nave.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\navel.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\naver.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\nivel1.wma
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\nivel1.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\PressStart2P.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\VerminBig.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\VerminSmall.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\EjemploMonogame.exe
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\EjemploMonogame.pdb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\obj\x86\Debug\SaveEarth.csprojAssemblyReference.cache
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\obj\x86\Debug\SaveEarth.csproj.CoreCompileInputs.cache
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\obj\x86\Debug\SaveEarth.csproj.CopyComplete
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\obj\x86\Debug\EjemploMonogame.exe
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\obj\x86\Debug\EjemploMonogame.pdb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion1.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion2.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion3.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion4.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion_enemigo.wma
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion_enemigo.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion_nave.wma
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion_nave.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\planeta1.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\planeta2.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\planeta3.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\planeta4.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas1.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas2.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas3.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas4.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas5.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\scanlines.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\disparoEnemigo.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\enemigo2.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\enemigo2b.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion1-2.xnb
+C:\Users\rdort\source\repos\SaveEarth 0.1\EjemploMonogame\bin\Windows\x86\Debug\Content\fireEn2.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion_enemigo.wma
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion_nave.wma
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\disparoEnemigo.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\enemigo2.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\enemigo2b.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion1-2.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion1.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion2.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion3.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion4.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion_enemigo.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\explosion_nave.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\fireEn2.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas1.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas2.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas3.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas4.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\nebulosas5.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\planeta1.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\planeta2.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\planeta3.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\planeta4.xnb
+C:\Users\rdort\source\repos\SaveEarth\EjemploMonogame\bin\Windows\x86\Debug\Content\scanlines.xnb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/PressStart2P.spritefont</SourceFile>
+  <SourceTime>2020-04-19T12:33:47.1248794+02:00</SourceTime>
+  <DestFile>C:/Users/rdort/source/repos/SaveEarth 0.1/EjemploMonogame/Content/bin/Windows/PressStart2P.xnb</DestFile>
+  <DestTime>2020-05-16T18:28:47.8186084+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
